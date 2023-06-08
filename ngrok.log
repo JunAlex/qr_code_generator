@@ -8,3 +8,5 @@ t=2023-06-08T19:36:14+0000 lvl=info msg="started tunnel" obj=tunnels name=comman
 t=2023-06-08T19:37:10+0000 lvl=info msg="join connections" obj=join id=0abc1de59542 l=127.0.0.1:8080 r=45.159.16.131:59499
 t=2023-06-08T19:37:11+0000 lvl=info msg="join connections" obj=join id=004872b2e611 l=127.0.0.1:8080 r=45.159.16.131:59499
 t=2023-06-08T19:38:40+0000 lvl=info msg="join connections" obj=join id=be7fd234ea20 l=127.0.0.1:8080 r=140.82.115.57:42717
+t=2023-06-08T19:41:55+0000 lvl=info msg="join connections" obj=join id=5106d41eb5be l=127.0.0.1:8080 r=140.82.115.241:43251
+t=2023-06-08T20:21:35+0000 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
